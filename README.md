@@ -2,5 +2,7 @@
 
 ## Group Names with Team Members
 
+dizzy-donkey: Sarah , TezJioh
 prickly-pear: Prof. K
 funky-flamingo: MacKenzie, Emily
+
