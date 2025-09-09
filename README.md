@@ -4,7 +4,12 @@
 
 Angry-apple: Agda, Danny
 dizzy-donkey: Sarah , TezJioh
+prickly-pear: Prof. K
+
+
 funky-flamingo: MacKenzie, Emily
 prickly-pear: Prof. K
 
+
+hasty-hazelnut: Ellen, Abril 
 
