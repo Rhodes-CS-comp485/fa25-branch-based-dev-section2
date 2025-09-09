@@ -1,8 +1,11 @@
-# Branch-Based Development (In-Class Exercise)
 
-## Group Names with Team Member
-Cheeky-chicken
+
+Angry-apple: Agda, Danny
+cheeky-chicken: Karen, Umer
+dizzy-donkey: Sarah , TezJioh
+
+funky-flamingo: MacKenzie, Emily
 prickly-pear: Prof. K
-Karen 
-Umer
 
+
+hasty-hazelnut: Ellen, Abril 
