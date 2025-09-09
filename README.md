@@ -2,3 +2,4 @@
 
 ## Group Names with Team Members
 prickly-pear: Prof. K
+giggly-goose: Cece and Zach
